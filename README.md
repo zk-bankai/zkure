@@ -29,7 +29,7 @@ any values out of the range will not be accepted by the circuit and no proof wil
 
 **Data Verification**: External parties can verify the authenticity of the drug data using the provided proofs, ensuring compliance and authenticity on the blockchain using solidity verifier which is deployed on the [Scroll L2](https://scroll.io/).
 
-![](https://github.com/zk-bankai/zkure/blob/main/assets/Screenshot%202023-12-07%20at%205.49.10%E2%80%AFPM.jpeg)
+![UI](https://github.com/zk-bankai/zkure/blob/main/assets/Screenshot%202023-12-07%20at%205.49.10%E2%80%AFPM.jpeg)
 
 # Impact
 
